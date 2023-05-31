@@ -2,7 +2,7 @@
 
 My name is Artem. I love coding, mechanical keyboards, cats and new technologies.
 
- - 🧑🏼‍💻 I'm currently working on RFID Android scanner project at Hi-Tech.
+ - 🧑🏼‍💻 Working at StarLine, Saint Petersburg, developing mobile application for controling car alarm. In the past worked on mobile app for Android RFID scanner at Hi-Tech, Moscow.
  - ✈️ Living in Moscow and Saint-Petersburg.
  - 🌱 Master's student at ITMO University in the Department of Translational Information Technologies majoring in Mobile and Networking Technologies.
  - 📫 How to reach me: [Telegram](https://t.me/DroidCat)
